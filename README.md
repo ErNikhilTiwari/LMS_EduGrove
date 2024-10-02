@@ -1,2 +1,2 @@
-# LMS_EduGrove
-LMS project for FSE
+# LOP_Project
+LOP project 7th Sem 2024
